@@ -1,0 +1,8 @@
+import wollok.game.*
+import colisionables.*
+import puma.*
+import nombre.*
+
+program jueguito {
+	nombre.iniciar()
+}
